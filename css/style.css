@@ -1,0 +1,44 @@
+
+body{
+    background-color: #ddd;
+}
+
+.profile{
+    width: 350px;
+    height: 450px;
+    
+}
+.profile-heading{
+    
+    color: blue;
+}
+
+p b{
+    font-size: 20px;
+}
+.me{
+    font-size: 35px;
+    color: blue;
+}
+a{
+    font-size: 25px;
+    background-color: black;
+    text-decoration: none;
+    color: tomato;
+    padding: 10px 20px;
+    border: 2px solid tomato;
+}
+table,th,td{
+    border: 1px solid black;
+}
+th{
+    font-size: 30px;
+    background-color: lightseagreen;
+}
+td{
+    font-size: 20px;
+    text-align: center;
+    padding: 8px;
+    background-color: lightcyan;
+}
+
